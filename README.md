@@ -11,7 +11,7 @@ Dodatkowo użytkownik może modyfikować parametry algorytmu genetycznego i obse
 
 ---
 
-## 💻 Technologie i biblioteki
+## 💻 Najważniejsze technologie i biblioteki
 
 - **Python 3.10+**
 - `networkx` – grafy i ścieżki
