@@ -24,7 +24,7 @@ Dodatkowo użytkownik może modyfikować parametry algorytmu genetycznego i obse
 
 ---
 
-##🚀 Uruchomienie
+## 🚀 Uruchomienie
 - Uruchom notatnik Jupyter lub Google Colab.
 - Zaimportuj bibliotekę i uruchom kod z wyborem punktów.
 - Zaznacz punkty na mapie (start, meta, punkty pośrednie).
