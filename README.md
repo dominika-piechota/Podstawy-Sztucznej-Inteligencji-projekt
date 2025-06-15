@@ -19,6 +19,7 @@ Dodatkowo użytkownik może modyfikować parametry algorytmu genetycznego i obse
 - `ipyleaflet` – interaktywna mapa do wyboru punktów
 - `ipywidgets` – dynamiczna interakcja z notebookiem
 - `matplotlib` – wykresy dokładności
+- `folium` – wizualizacje
 - `random`, `itertools` – logika permutacji i losowości
 
 ---
