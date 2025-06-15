@@ -24,4 +24,13 @@ Dodatkowo użytkownik może modyfikować parametry algorytmu genetycznego i obse
 
 ---
 
+##🚀 Uruchomienie
+- Uruchom notatnik Jupyter lub Google Colab.
+- Zaimportuj bibliotekę i uruchom kod z wyborem punktów.
+- Zaznacz punkty na mapie (start, meta, punkty pośrednie).
+- Uruchom algorytm genetyczny.
+- Porównaj wyniki z trasą Dijkstry.
+
+---
+
 Projekt obsługuje mapę Krakowa w promieniu 10km od Rynku Głównego, jednak można to szybko zmienić i zaznaczyć inny obszar bądź lokalizację.
